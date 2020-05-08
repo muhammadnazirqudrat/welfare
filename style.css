@@ -1,0 +1,67 @@
+/**
+{
+	margin: 0;
+	padding: 0;
+	font-family: ubunto;
+}*/
+header
+{
+	background-color: blue;
+	color: white;
+	width: 1007px;
+	height: 70px;
+}
+
+nav
+{
+	margin-top: 62px;
+	background-color: white;
+	height: 35px;
+	position: sticky;
+	top: 0px;
+	
+	
+}
+.navigation
+{
+		margin-top: -35px;
+}
+ul
+{
+	float: right;
+
+}
+ul li
+{
+	display: inline-block;
+	padding: px;
+	margin-top: 20px;
+}
+ul li a
+{
+	color:black;
+	padding:7px 15px;
+	border-radius: 50px;
+	font-style: bold;
+}
+ul li a:hover
+{
+	background-color: rgb(62, 119, 189);
+	color: white;
+	text-decoration: none;
+}
+.active
+{
+	background-color: rgb(62, 119, 189);
+	color: white;
+	text-decoration: none;
+}
+
+marquee
+{
+	background-color: rgb(62, 119, 189);
+	color: white;
+	margin-top: 430px;
+  	margin-left: 15px;
+	width: 990px;
+}
